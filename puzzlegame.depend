@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701169721 source:/home/edgar/Desktop/Projects/Cppfolder/SFML projects/puzzlegame/main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+
